@@ -1,0 +1,17 @@
+h1{
+    color:tomato;
+    background-color: cadetblue;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+}
+h1:hover{
+    background-color: rgb(224, 214, 197);
+    border: 2px solid #f86262;
+}
+img{
+    width: 100px;
+}
+body{
+    background-color: rgba(173, 189, 144, 0.774);
+}
